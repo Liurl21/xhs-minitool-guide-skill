@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书小工具开发者指南"
+  short_description: "基于官方能力清单开发、审查并排查小红书小工具，指南每日自动同步"
+  default_prompt: "使用 $xhs-mini-tool-developer-guide 检查并指导我的小红书小工具开发。"

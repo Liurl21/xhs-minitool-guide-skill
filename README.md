@@ -1,6 +1,6 @@
-# 小红书小工具开发者指南技能
+# 小红书小工具开发者指南SKILL
 
-这是一个面向 Codex 的小红书小工具开发技能。它依据官方《小工具容器能力清单》，帮助开发、审查和排查小工具中的运行环境、离线打包、资源加载、Web API、WebGL、媒体处理与端能力调用问题。
+这是一个面向 Codex 的小红书小工具开发SKILL。它依据官方《小工具容器能力清单》，帮助开发、审查和排查小工具中的运行环境、离线打包、资源加载、Web API、WebGL、媒体处理与端能力调用问题。
 
 ## 主要能力
 
@@ -77,4 +77,3 @@ python3 -m unittest discover -s tests -v
 ```
 
 作为源码保存时，本仓库目录可以使用当前名称；复制到 Codex 的技能目录时，安装目标目录请使用 `xhs-mini-tool-developer-guide`。
-# xhs-minitool-guide-skill
